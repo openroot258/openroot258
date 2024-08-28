@@ -10,6 +10,7 @@ Hi I'm Michael Jason Olmedo - An aspiring full-stack web developer on Ruby on Ra
 
 
 Testing Control Specialist at Palawan Group of Companies 
+Web Developer at AreaScouts
 
 
 
