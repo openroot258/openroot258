@@ -1,4 +1,9 @@
-Hi I'm Michael Jason Olmedo - An aspiring full-stack web developer on Ruby on Rails
+
+![image](https://github.com/user-attachments/assets/7546b426-a000-43ca-b1a3-4f6276ad88de)
+
+
+Hi I'm Michael Jason Olmedo - An aspiring full-stack web developer on Ruby on Rails 
+
 ---
 
 
