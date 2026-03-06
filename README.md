@@ -16,7 +16,7 @@
 
 | **Full-time** | **Role** |
 |---------------|----------|
-| **Palawan Group of Companies** | Testing and Control Specialist |
+| **Palawan Group of Companies** | Application Tester |
 
 | **Freelance** | **Role** |
 |---------------|----------|
